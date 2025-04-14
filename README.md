@@ -1,5 +1,5 @@
 
-# 🛠️ Selenium Practice Project
+# Selenium Practice Project
 
 A beginner-friendly automation testing project using **Selenium** and **Python**. This repository is designed to help QA trainees learn how to write clean and maintainable web UI tests using the **Page Object Model** pattern.
 
@@ -65,7 +65,7 @@ pip install webdriver-manager
 python run_tests.py
 ```
 
-## 🧱 Technologies and Tools
+## 🛠️ Technologies and Tools
 
 - [Selenium WebDriver](https://www.selenium.dev/)
 - Python 3.8+
