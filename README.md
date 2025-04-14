@@ -41,7 +41,10 @@ cd Selenium_practice
 python -m venv venv
 source venv/bin/activate
 ```
-On Windows: ```venv\Scripts\activate```
+On Windows: 
+```bash
+venv\Scripts\activate
+```
 
 ### 3. Install Dependencies
 
