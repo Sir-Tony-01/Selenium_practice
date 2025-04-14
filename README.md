@@ -35,7 +35,7 @@ git clone https://github.com/Sir-Tony-01/Selenium_practice.git
 cd Selenium_practice
 ```
 
-### 2. Set Up a Virtual Environment (Optional but Recommended)
+### 2. Set Up a Virtual Environment
 
 ```bash
 python -m venv venv
