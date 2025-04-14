@@ -8,7 +8,6 @@ A beginner-friendly automation testing project using **Selenium** and **Python**
 ```
 Selenium_practice/
 │
-├── drivers/                # WebDriver executables (e.g., ChromeDriver)
 ├── pages/                  # Page Object Model classes
 │   └── cart_page.py
 │   └── checkout_page.py
